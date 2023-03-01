@@ -6,4 +6,4 @@ to run this script Make sure to replace port_scanner.py with the actual name of 
 type python port_scanner.py to run on your local terminal
 
 it works like basic nmap scan
-enjoy 😄
+enjoy... 😄
